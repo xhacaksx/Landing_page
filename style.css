@@ -26,7 +26,12 @@ ul li {
     font-weight: 300;
     padding: 8px;
     margin: 8px 4px 8px 4px;
+    
+    
+}
+ a {
     color: white;
+    text-decoration: none;
 }
 .header {
     display: flex;
